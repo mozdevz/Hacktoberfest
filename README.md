@@ -24,6 +24,8 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 - [Lars Albino Lemos](https://github.com/larslemos)
 - [Tássio Freitas Guimarães do Rosário](https://github.com/TRosario619)
 
+- [Richaldo do Lito Elias](https://github.com/RichaldoElias)
+
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
