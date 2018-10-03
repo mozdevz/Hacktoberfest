@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Salvador Anselmo de Oliveira Rombe](https://github.com/rostovsaor)
 - [Gildo Jalane](https://github.com/GJalane)
 - [Domingos Cesar](https://github.com/Domingos058)
 - [Moniz Pedro Massango](https://github.com/SlamStunner)
