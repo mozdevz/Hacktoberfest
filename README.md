@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Idelson Mindo](https://github.com/idelson/Hacktoberfest)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
