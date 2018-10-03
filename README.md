@@ -8,8 +8,9 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Onnys Anild Lopes Menete](https://github.com/Onnys)
 - [Lars Albino Lemos](https://github.com/larslemos)
-- [Tássio Freita Guimarães do Rosário](https://github.com/TRosario619/Hacktoberfest)
+- [Tássio Freita Guimarães do Rosário](https://github.com/TRosario619)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
