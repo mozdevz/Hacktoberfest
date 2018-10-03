@@ -1,4 +1,4 @@
-﻿# Hacktoberfest 2018
+# Hacktoberfest 2018
 
 Hacktoberfest — trazido pela DigitalOcean em parceria com GitHub e Twilio — é uma celebração do software de código aberto que tem a duração de um mês.
 Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros contribuintes ajudarem a avançar com o projeto.
@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Berta Devesse](https://github.com/bethDev)
 - [Adelia Ubisse](https://github.com/AdeliaUbisse)
 - [Idácio Dad A. Zibia](https://github.com/idacioDad)
 - [Idelson Mindo](https://github.com/idelson)
