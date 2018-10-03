@@ -23,11 +23,14 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 - [Onnys Anild Lopes Menete](https://github.com/Onnys)
 - [Lars Albino Lemos](https://github.com/larslemos)
 - [Tássio Freitas Guimarães do Rosário](https://github.com/TRosario619)
-
 - [Richaldo do Lito Elias](https://github.com/RichaldoElias)
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+~Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.~
+
+Já não estamos a aceitar Pull Requests neste repositório, pois o evento já decorreu. Pull Requests enviados de agora em diante serão marcados como inválidos e não irão contar para o Hacktoberfest 2018. Clica no botão <kbd>Watch</kbd> deste repositório para seres notificado sobre qualquer alteração. Até ao próximo ano!
+
+A MozDevz agradece a todos que estiveram presentes no evento. Parabéns por ter concluído o seu primeiro Pull Request! Não se esqueça que tem mais 4 Pull Requests por fazer. Happy Hacking!
 
 ## A procura de outros repositórios para contribuir?
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos);
