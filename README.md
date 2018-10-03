@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+
 - [Richaldo do Lito Elias] (https://github.com/RichaldoElias)
 
 ### Adiciona o teu nome
