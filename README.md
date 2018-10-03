@@ -32,6 +32,11 @@ Já não estamos a aceitar Pull Requests neste repositório, pois o evento já d
 
 A MozDevz agradece a todos que estiveram presentes no evento. Parabéns por ter concluído o seu primeiro Pull Request! Não se esqueça que tem mais 4 Pull Requests por fazer. Happy Hacking!
 
+## Apresentações
+Podes encontrar aqui as apresentações utilizadas durante o evento:
+- [O que é Hacktoberfest](https://docs.google.com/presentation/d/1qLF59ev9Hl45gyHRzt84o2B9DynYQ2irPuxkbKgL6LY/edit?usp=sharing) - Rosário Pereira Fernandes
+- [Open Source como Negócio Sustentável](https://docs.google.com/presentation/d/1Avra-Z8UWww6YuBDk4iQ1n4h7RLLDUTJdRzof4wbjMs/edit?usp=sharing) - Elísio Leonardo
+
 ## A procura de outros repositórios para contribuir?
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos);
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub;
