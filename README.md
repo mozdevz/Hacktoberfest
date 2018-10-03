@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Moniz Pedro Massango](https://github.com/SlamStunner/Hacktoberfest)
 - [Onnys Anild Lopes Menete](https://github.com/Onnys)
 - [Lars Albino Lemos](https://github.com/larslemos)
 - [Tássio Freita Guimarães do Rosário](https://github.com/TRosario619)
