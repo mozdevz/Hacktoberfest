@@ -8,7 +8,8 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
-- [Gentil Antonio Macicame](https://github.com/GentilMacicame/Hacktoberfest.git)
+- [Carlos Alberto Massavanhane Jr](https://github.com/cmassavanhanejr)
+- [Gentil Antonio Macicame](https://github.com/GentilMacicame)
 - [Berta Devesse](https://github.com/bethDev)
 - [Adelia Ubisse](https://github.com/AdeliaUbisse)
 - [Idácio Dad A. Zibia](https://github.com/idacioDad)
