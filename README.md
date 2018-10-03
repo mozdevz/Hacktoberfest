@@ -8,6 +8,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- [Idácio Dad A. Zibia](https://github.com/idacioDad)
 - [Idelson Mindo](https://github.com/idelson)
 - [Muhamad Yuraz Ismail](https://github.com/muhamadyuraz07)
 - [Emmerson Figueiro](https://github.com/emmerson15)
