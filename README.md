@@ -1,6 +1,6 @@
 # Hacktoberfest 2018
 
-Hacktoberfest — trazido pela DigitalOcean em parceria com GitHub e Twilio — é uma celebração do software de código aberto que tem a duração de um mês.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) — trazido pela DigitalOcean em parceria com GitHub e Twilio — é uma celebração do software de código aberto que tem a duração de um mês.
 Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros contribuintes ajudarem a avançar com o projeto.
 Não existe contribuição pequena — corrigir bugs e editar a documentação são também maneiras válidas de participar.
 
@@ -38,13 +38,13 @@ Podes encontrar aqui as apresentações utilizadas durante o evento:
 - [Open Source como Negócio Sustentável](https://docs.google.com/presentation/d/1Avra-Z8UWww6YuBDk4iQ1n4h7RLLDUTJdRzof4wbjMs/edit?usp=sharing) - Elísio Leonardo
 
 ## A procura de outros repositórios para contribuir?
-- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos);
-- Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub;
-- Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects);
-- SendGrid [juntou-se ao Hacktoberfest](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/) e oferece uma T-shirt para quem abrir Pull Requests nos repositórios que estão no [Github deles](https://github.com/sendgrid);
-- Auth0 está [a celebrar o Hacktoberfest](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/);
-- A Microsoft também juntou-se ao Hacktoberfest e está a oferecer uma T-shirt para quem abrir pelo menos 1 Pull Request num dos [repositórios deles](https://open.microsoft.com);
-- A Hasura [juntou-se ao Hacktoberfest](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560), vai oferecer stickers para quem abrir pelo menos um Pull Request e uma T-shirt para quem tiver o Pull Request merged no repositório do [GraphQL Engine](https://github.com/hasura/graphql-engine)
+- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
+- Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
+- Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
+- Vê os repositórios da [SendGrid](https://github.com/sendgrid) onde podes ganhar outra [T-shirt exclusiva](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/).
+- Vê os repositórios da [Auth0](https://github.com/auth0) e podes ganhar outra [T-shirt exclusiva](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/). Preenche o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeEExVU_OPWhedfWdq3xD0gyrq1uo8_TUwH45JMlDKR7z1WEg/viewform) depois de fazeres a tua contribuição.
+- A Microsoft também juntou-se ao Hacktoberfest e está a oferecer uma [T-shirt](http://aka.ms/hacktoberfest) para quem abrir pelo menos 1 Pull Request num dos [repositórios deles](https://open.microsoft.com). Regista-te [aqui](https://microsoft.qualtrics.com/jfe/form/SV_1NrfDyLTNVFun4x) para ganhar a T-shirt.
+- A Hasura [juntou-se ao Hacktoberfest](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560), vai oferecer stickers para quem abrir pelo menos um Pull Request e uma T-shirt para quem tiver o Pull Request merged no repositório do [GraphQL Engine](https://github.com/hasura/graphql-engine).
 
 
 
