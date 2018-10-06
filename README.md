@@ -45,6 +45,9 @@ Podes encontrar aqui as apresentações utilizadas durante o evento:
 - Vê os repositórios da [Auth0](https://github.com/auth0) e podes ganhar outra [T-shirt exclusiva](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/). Preenche o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeEExVU_OPWhedfWdq3xD0gyrq1uo8_TUwH45JMlDKR7z1WEg/viewform) depois de fazeres a tua contribuição.
 - A Microsoft também juntou-se ao Hacktoberfest e está a oferecer uma [T-shirt](http://aka.ms/hacktoberfest) para quem abrir pelo menos 1 Pull Request num dos [repositórios deles](https://open.microsoft.com). Regista-te [aqui](https://microsoft.qualtrics.com/jfe/form/SV_1NrfDyLTNVFun4x) para ganhar a T-shirt.
 - A Hasura [juntou-se ao Hacktoberfest](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560), vai oferecer stickers para quem abrir pelo menos um Pull Request e uma T-shirt para quem tiver o Pull Request merged no repositório do [GraphQL Engine](https://github.com/hasura/graphql-engine).
+- A [Gatsby](https://github.com/gatsbyjs/gatsby/issues/8719) oferece uma das camisetes deles.
+- A [source{d}](https://github.com/src-d/) também juntou-se ao Hacktoberfest. Regista-te para participar [aqui](https://go.sourced.tech/hacktoberfest).
+- A [OpenEBS](https://openebs.io) também [juntou-se ao Hacktoberfest](https://openebs.io/hackfests/hacktoberfest-2018).
 
 
 
