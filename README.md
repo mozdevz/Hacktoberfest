@@ -9,6 +9,19 @@ Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar
 Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
 
 
+## Participantes
+1.  
+
+### Adiciona o teu nome
+Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+
+
+## A procura de outros repositórios para contribuir?
+- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
+- Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
+- Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
+
+
 ## Licença
        Copyright 2019 MozDevz
     
