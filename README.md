@@ -10,7 +10,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 
 ## Participantes
-1.  
+- [Nome](github.com/username)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
@@ -20,6 +20,14 @@ Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na li
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
+
+## Swag++
+
+Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para oferecer:
+- [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
+- [CircleCI](https://hacktoberfest.circleci.com/#/)
+- [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
+- [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
 
 
 ## Licença
