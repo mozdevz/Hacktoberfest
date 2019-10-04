@@ -24,10 +24,16 @@ Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na li
 ## Swag++
 
 Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para oferecer:
+- [Adobe](https://opensource.adobe.com/squashtoberfest/)
 - [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
 - [CircleCI](https://hacktoberfest.circleci.com/#/)
+- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
+- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/)
 - [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
+- [Python Discord](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/)
+- [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
 - [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
+- [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
 
 
 ## Licença
