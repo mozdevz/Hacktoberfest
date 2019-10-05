@@ -5,12 +5,14 @@
 Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros
  contribuintes ajudarem a avançar com o projeto. Não existe contribuição pequena — corrigir bugs e editar a
  documentação são também maneiras válidas de participar.
+ O evento ocorre no mes de outubro entre os dias 01 a 31.
 
 Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
 
 
 ## Participantes
 - [Nome](github.com/username)
+- [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
 - [Firmino Massango](github.com/FirminoMassango)
 - [Idacio Zibia](https://github.com/idacioDad)
 - [Laila Amosse Matusse](https://github.com/lmatusse)
