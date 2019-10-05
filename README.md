@@ -12,6 +12,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Folege Lourenco Ricardo](https://github.com/Folege)
 - [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
 - [Firmino Massango](github.com/FirminoMassango)
 - [Idacio Zibia](https://github.com/idacioDad)
