@@ -27,6 +27,7 @@ Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para ofe
 - [Adobe](https://opensource.adobe.com/squashtoberfest/)
 - [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
 - [CircleCI](https://hacktoberfest.circleci.com/#/)
+- [Gatsby](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
 - [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/)
 - [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
