@@ -1,31 +1,46 @@
-# Hacktoberfest 2018
+# Hacktoberfest 2019
 
-Hacktoberfest — trazido pela DigitalOcean em parceria com GitHub e Twilio — é uma celebração do software de código aberto que tem a duração de um mês.
-Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros contribuintes ajudarem a avançar com o projeto.
-Não existe contribuição pequena — corrigir bugs e editar a documentação são também maneiras válidas de participar.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) — trazido pela DigitalOcean em parceria com a DEV
+ — é uma celebração do software de código aberto que tem a duração de um mês.
+Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros
+ contribuintes ajudarem a avançar com o projeto. Não existe contribuição pequena — corrigir bugs e editar a
+ documentação são também maneiras válidas de participar.
 
-Para participar no nosso evento de 2018, confirma a tua presença no nosso [meetup](https://www.meetup.com/Mozdevz/events/254945848/).
+Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
+
 
 ## Participantes
-- [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
-- [Filipe Emanuel && Nadia Cangy](https://github.com/FilipeEmanuel/Hacktoberfest)
+
+- [Nome](github.com/username)
+- [Filipe Emanuel Mangue](https://github.com/FilipeEmanuel/Hacktoberfest)
+
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
-## A procura de outros repositórios para contribuir?
-- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos);
-- Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub;
-- Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects);
-- SendGrid [juntou-se ao Hacktoberfest](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/) e oferece uma T-shirt para quem abrir Pull Requests nos repositórios que estão no [Github deles](https://github.com/sendgrid);
-- Auth0 está [a celebrar o Hacktoberfest](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/);
-- A Microsoft também juntou-se ao Hacktoberfest e está a oferecer uma T-shirt para quem abrir pelo menos 1 Pull Request num dos [repositórios deles](https://open.microsoft.com);
-- A Hasura [juntou-se ao Hacktoberfest](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560), vai oferecer stickers para quem abrir pelo menos um Pull Request e uma T-shirt para quem tiver o Pull Request merged no repositório do [GraphQL Engine](https://github.com/hasura/graphql-engine)
 
+## A procura de outros repositórios para contribuir?
+- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
+- Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
+- Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
+
+## Swag++
+
+Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para oferecer:
+- [Adobe](https://opensource.adobe.com/squashtoberfest/)
+- [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
+- [CircleCI](https://hacktoberfest.circleci.com/#/)
+- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
+- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/)
+- [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
+- [Python Discord](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/)
+- [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
+- [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
+- [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
 
 
 ## Licença
-       Copyright 2018 MozDevz
+       Copyright 2019 MozDevz
     
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
