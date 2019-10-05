@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Firmino Massango](github.com/FirminoMassango)
 - [Idacio Zibia](https://github.com/idacioDad)
 - [Laila Amosse Matusse](https://github.com/lmatusse)
 - [Delcinio José Chirindza](https://github.com/DelcinioChirindza)
@@ -27,7 +28,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 - [Paula Sigauque](https://github.com/PSigauque)
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima. 
 
 
 ## A procura de outros repositórios para contribuir?
