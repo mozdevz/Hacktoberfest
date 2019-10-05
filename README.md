@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Nereid King](github.com/nereiiidking)
 - [Mauro Chambule](https://github.com/chambule)
 - [Paula Sigauque](https://github.com/PSigauque)
 
