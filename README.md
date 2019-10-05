@@ -12,6 +12,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Carlos Massavanhane](https://github.com/cmassavanhanejr)
 - [Eurico Inácio Mazivila](https://github.com/EuricoMazivila)
 - [Folege Lourenco Ricardo](https://github.com/Folege)
 - [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
@@ -53,6 +54,8 @@ Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para ofe
 - [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
 - [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
 - [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
+
+Mais em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.com/)
 
 
 ## Licença
