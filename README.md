@@ -13,6 +13,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 ## Participantes
 
 - [Nome](github.com/username)
+- [Edmilson Rolas](https://github.com/ASRolas)
 - [Filipe Emanuel Mangue](https://github.com/FilipeEmanuel/Hacktoberfest)
 - [Djamal dos Santos](https://github.com/kradnoel)
 - [Alvaro Sargento](https://github.com/username)
