@@ -12,7 +12,8 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
-- [Alvaro Sargento](github.com/username)
+- [Djamal dos Santos](https://github.com/kradnoel)
+- [Alvaro Sargento](https://github.com/username)
 - [Yula Guivala](https://github.com/yulaGuival)
 - [Carlos Massavanhane](https://github.com/cmassavanhanejr)
 - [Eurico Inácio Mazivila](https://github.com/EuricoMazivila)
