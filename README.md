@@ -24,6 +24,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 15. [Tássio Freitas Guimarães do Rosário](https://github.com/TRosario619)
 16. [Gentil Antonio Macicame](https://github.com/GentilMacicame)
 17. [Carlos Alberto Massavanhane Jr](https://github.com/cmassavanhanejr)
+18. [Momade Junior].(https://github.com/Momade-Junior)
 
 ### Adiciona o teu nome
 ~Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.~
