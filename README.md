@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Carlos Massavanhane](https://github.com/cmassavanhanejr)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
@@ -34,6 +35,8 @@ Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para ofe
 - [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
 - [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
 - [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
+- [more](https://hacktoberfest-swag-list.netlify.com/)
+
 
 
 ## Licença
