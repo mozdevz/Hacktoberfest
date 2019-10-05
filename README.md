@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Feliciano Manguele](https://github.com/FelicianoManguele)
 - [Shirley Caifaz](https://github.com/ShirleyCaifaz)
 - [Belton jamine](https://github.com/beltonjamine)
 - [Mariano Mugana](https://github.com/MarianoMugana)
