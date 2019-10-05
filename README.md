@@ -14,7 +14,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 - [Firmino Massango](github.com/FirminoMassango)
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima. 
 
 
 ## A procura de outros repositórios para contribuir?
