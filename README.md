@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 ## Participantes
 - [Nome](github.com/username)
+- [Belton jamine](github.com/beltonjamine)
 - [Mariano Mugana](https://github.com/MarianoMugana)
 - [Lourenco Nelson](https://github.com/LourencoNelson)
 - [Luis Saiete](https://github.com/ltsaiete)
@@ -18,7 +19,6 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 - [Nereid King](https://github.com/nereiiidking)
 - [Mauro Chambule](https://github.com/chambule)
 - [Paula Sigauque](https://github.com/PSigauque)
-
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
