@@ -12,6 +12,8 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 ## Participantes
 - [Nome](github.com/username)
 
+-[Faruque Braimo] https://github.com/FaruqueBraimo
+
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
