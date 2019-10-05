@@ -5,16 +5,41 @@
 Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros
  contribuintes ajudarem a avançar com o projeto. Não existe contribuição pequena — corrigir bugs e editar a
  documentação são também maneiras válidas de participar.
+ O evento ocorre no mes de outubro entre os dias 01 a 31.
 
 Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
 
 
 ## Participantes
+
 - [Nome](github.com/username)
-- [Edmilson Rolas](https://github.com/ASRolas/Hacktoberfest)
+- [Edmilson Rolas](https://github.com/ASRolas)
+- [Filipe Emanuel Mangue](https://github.com/FilipeEmanuel/Hacktoberfest)
+- [Djamal dos Santos](https://github.com/kradnoel)
+- [Alvaro Sargento](https://github.com/username)
+- [Yula Guivala](https://github.com/yulaGuival)
+- [Carlos Massavanhane](https://github.com/cmassavanhanejr)
+- [Eurico Inácio Mazivila](https://github.com/EuricoMazivila)
+- [Folege Lourenco Ricardo](https://github.com/Folege)
+- [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
+- [Firmino Massango](github.com/FirminoMassango)
+- [Idacio Zibia](https://github.com/idacioDad)
+- [Laila Amosse Matusse](https://github.com/lmatusse)
+- [Delcinio José Chirindza](https://github.com/DelcinioChirindza)
+- [Hélder Josué](https://github.com/helderjosue)
+- [Feliciano Manguele](https://github.com/FelicianoManguele)
+- [Shirley Caifaz](https://github.com/ShirleyCaifaz)
+- [Belton jamine](https://github.com/beltonjamine)
+- [Mariano Mugana](https://github.com/MarianoMugana)
+- [Lourenco Nelson](https://github.com/LourencoNelson)
+- [Luis Saiete](https://github.com/ltsaiete)
+- [Paulo Amosse Cuambe](https://github.com/paulocuambe)
+- [Nereid King](https://github.com/nereiiidking)
+- [Mauro Chambule](https://github.com/chambule)
+- [Paula Sigauque](https://github.com/PSigauque)
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima. 
 
 
 ## A procura de outros repositórios para contribuir?
@@ -35,6 +60,8 @@ Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para ofe
 - [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
 - [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
 - [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
+
+Mais em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.com/)
 
 
 ## Licença
