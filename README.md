@@ -11,6 +11,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 
 
 ## Participantes
+- [Tsaman Sumbane](https://github.com/Tsamansumbane)
 - [Doilio A. Matsinhe](github.com/doilio)
 - [Calleb Joel Miquissene](https://github.com/callebdev)
 - [Edmilson Rolas](https://github.com/ASRolas)
