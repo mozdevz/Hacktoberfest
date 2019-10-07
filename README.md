@@ -37,6 +37,7 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 - [Nereid King](https://github.com/nereiiidking)
 - [Mauro Chambule](https://github.com/chambule)
 - [Paula Sigauque](https://github.com/PSigauque)
+-[Salmento Chitlango](https://github.com/salmento)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima. 
