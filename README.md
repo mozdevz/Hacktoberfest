@@ -40,7 +40,18 @@ Para participar no nosso evento de 2019, confirma a tua presença no [meetup](ht
 - [Paula Sigauque](https://github.com/PSigauque)
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima. 
+~Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.~
+
+Já não estamos a aceitar Pull Requests neste repositório, pois o evento já decorreu. Clica no botão <kbd>Watch</kbd> deste repositório para seres notificado sobre qualquer alteração. Até ao próximo ano!
+
+O GDG Maputo e seus parceiros agradecem a todos que estiveram presentes no evento. Parabéns por ter concluído o seu primeiro Pull Request! Não se esqueça que tem mais 3 Pull Requests por fazer até ao dia 31 de Outubro.
+
+Happy Hacking!
+
+## Apresentações
+Pode encontrar aqui as apresentações utilizadas durante o evento:
+- [Boas Vindas, Hacktoberfest e Open Sourcce](https://docs.google.com/presentation/d/1IHa9Pg_UFJTWbFeGHW8twdltBMD8XNztVL2XKwPLwXI/edit?usp=sharing) - Rosário Pereira Fernandes
+- [Pull Requests no GitHub](https://docs.google.com/presentation/d/16qp-oVe2D_vDZOg-Y3LqOwX3kH10xz_yin7-pLVVZyQ/edit?usp=sharing) - Calleb Miquissene
 
 
 ## A procura de outros repositórios para contribuir?
