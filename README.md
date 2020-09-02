@@ -1,86 +1,31 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2020
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com) — trazido pela DigitalOcean em parceria com a DEV
- — é uma celebração do software de código aberto que tem a duração de um mês.
-Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros
- contribuintes ajudarem a avançar com o projeto. Não existe contribuição pequena — corrigir bugs e editar a
- documentação são também maneiras válidas de participar.
- O evento ocorre no mes de outubro entre os dias 01 a 31.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) é uma celebração do software de código aberto que tem a duração de um mês.
+Esta celebração está aberta à todos membros da comunidade global do GitHub. Só tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
+públicos.
+O evento ocorre no mês de outubro entre os dias 01 a 31.
 
-Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
+Para participar no nosso evento de 2020, ~confirma a tua presença no [meetup](https://gdg.community.dev/gdg-maputo/)~ COMING SOON.
 
 
 ## Participantes
-- [Tsaman Sumbane](https://github.com/Tsamansumbane)
-- [Doilio A. Matsinhe](github.com/doilio)
-- [Calleb Joel Miquissene](https://github.com/callebdev)
-- [Edmilson Rolas](https://github.com/ASRolas)
-- [Filipe Emanuel Mangue](https://github.com/FilipeEmanuel/Hacktoberfest)
-- [Djamal dos Santos](https://github.com/kradnoel)
-- [Alvaro Sargento](https://github.com/username)
-- [Yula Guivala](https://github.com/yulaGuival)
-- [Carlos Massavanhane](https://github.com/cmassavanhanejr)
-- [Eurico Inácio Mazivila](https://github.com/EuricoMazivila)
-- [Folege Lourenco Ricardo](https://github.com/Folege)
-- [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
-- [Firmino Massango](github.com/FirminoMassango)
-- [Idacio Zibia](https://github.com/idacioDad)
-- [Laila Amosse Matusse](https://github.com/lmatusse)
-- [Delcinio José Chirindza](https://github.com/DelcinioChirindza)
-- [Hélder Josué](https://github.com/helderjosue)
-- [Feliciano Manguele](https://github.com/FelicianoManguele)
-- [Shirley Caifaz](https://github.com/ShirleyCaifaz)
-- [Belton jamine](https://github.com/beltonjamine)
-- [Mariano Mugana](https://github.com/MarianoMugana)
-- [Lourenco Nelson](https://github.com/LourencoNelson)
-- [Luis Saiete](https://github.com/ltsaiete)
-- [Paulo Amosse Cuambe](https://github.com/paulocuambe)
-- [Nereid King](https://github.com/nereiiidking)
-- [Mauro Chambule](https://github.com/chambule)
-- [Paula Sigauque](https://github.com/PSigauque)
 
-- [Faruque Braimo](https://github.com/FaruqueBraimo)
 
 ### Adiciona o teu nome
-~Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.~
-
-Já não estamos a aceitar Pull Requests neste repositório, pois o evento já decorreu. Clica no botão <kbd>Watch</kbd> deste repositório para seres notificado sobre qualquer alteração. Até ao próximo ano!
-
-O GDG Maputo e seus parceiros agradecem a todos que estiveram presentes no evento. Parabéns por ter concluído o seu primeiro Pull Request! Não se esqueça que tem mais 3 Pull Requests por fazer até ao dia 31 de Outubro.
-
-Happy Hacking!
-
-## Apresentações
-Pode encontrar aqui as apresentações utilizadas durante o evento:
-- [Boas Vindas, Hacktoberfest e Open Sourcce](https://docs.google.com/presentation/d/1IHa9Pg_UFJTWbFeGHW8twdltBMD8XNztVL2XKwPLwXI/edit?usp=sharing) - Rosário Pereira Fernandes
-- [Pull Requests no GitHub](https://docs.google.com/presentation/d/16qp-oVe2D_vDZOg-Y3LqOwX3kH10xz_yin7-pLVVZyQ/edit?usp=sharing) - Calleb Miquissene
-
+Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
 ## A procura de outros repositórios para contribuir?
-- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
+- Vê outros repositórios Open Source moçambicanos em: [mozdevz/opensource](https://github.com/mozdevz/opensource).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
 
-## Swag++
+## SWAG++
 
-Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para oferecer:
-- [Adobe](https://opensource.adobe.com/squashtoberfest/)
-- [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
-- [CircleCI](https://hacktoberfest.circleci.com/#/)
-- [Gatsby](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag)
-- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
-- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/)
-- [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
-- [Python Discord](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/)
-- [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
-- [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
-- [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
-
-Mais em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.com/)
+Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.com/).
 
 
 ## Licença
-       Copyright 2019 MozDevz
+       Copyright 2020 MozDevz
 
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
