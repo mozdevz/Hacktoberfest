@@ -18,6 +18,7 @@ Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.
 ## Participantes
 - [Nome Completo](https://github.com/username)
 - [Rosário P. Fernandes](https://github.com/rosariopfernandes)
+- [Ivo Naftal](https://github.com/naftalivo)
 
 
 ### Adiciona o teu nome
