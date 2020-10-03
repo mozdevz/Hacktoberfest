@@ -5,10 +5,18 @@ Esta celebração está aberta à todos membros da comunidade global do GitHub. 
 públicos.
 O evento ocorre no mês de outubro entre os dias 01 a 31.
 
-Para participar no nosso evento de 2020, ~confirma a tua presença no [meetup](https://gdg.community.dev/gdg-maputo/)~ COMING SOON.
+Para participar no nosso evento de 2020, confirma a tua presença na [plataforma MLH](https://organize.mlh.io/participants/events/4392-hacktoberfest-online-meetup-in-maputo).
 
+## Actualização 2020
+
+Diferente dos anos anteriores, este ano **só são válidos** os PRs:
+- enviados para um repositório marcado com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
+- que foram aprovados `OU` merged `OU` que tenham a label `hacktoberfest-accepted`.
+
+Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.com/hacktoberfest-update
 
 ## Participantes
+- [Nome Completo](https://github.com/username)
 
 
 ### Adiciona o teu nome
