@@ -21,6 +21,7 @@ Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.
 - [Marlon C. S. Moisés](https://github.com/JustPrix)
 - [Idácio Dad A. Zibia](https://github.com/idacioDad)
 - [Calleb J. Miquissene](https://github.com/callebdev)
+- [Ivo Naftal](https://github.com/naftalivo)
 
 
 ### Adiciona o teu nome
