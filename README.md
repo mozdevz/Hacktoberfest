@@ -19,7 +19,8 @@ Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.
 - [Nome Completo](https://github.com/username)
 - [Rosário P. Fernandes](https://github.com/rosariopfernandes)
 - [Marlon C. S. Moisés](https://github.com/JustPrix)
--  [Idácio Dad A. Zibia](https://github.com/idacioDad)
+- [Idácio Dad A. Zibia](https://github.com/idacioDad)
+- [Calleb J. Miquissene](https://github.com/callebdev)
 
 
 ### Adiciona o teu nome
