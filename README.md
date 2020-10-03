@@ -17,6 +17,7 @@ Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+-  [Idácio Dad A. Zibia](https://github.com/idacioDad)
 
 
 ### Adiciona o teu nome
