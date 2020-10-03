@@ -1,51 +1,51 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2020
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com) — trazido pela DigitalOcean em parceria com a DEV
- — é uma celebração do software de código aberto que tem a duração de um mês.
-Desenvolvedores que mantêm projetos de código aberto são convidados a mostrar issues dos seus projetos para futuros
- contribuintes ajudarem a avançar com o projeto. Não existe contribuição pequena — corrigir bugs e editar a
- documentação são também maneiras válidas de participar.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com) é uma celebração do software de código aberto que tem a duração de um mês.
+Esta celebração está aberta à todos membros da comunidade global do GitHub. Só tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
+públicos.
+O evento ocorre no mês de outubro entre os dias 01 a 31.
 
-Para participar no nosso evento de 2019, confirma a tua presença no [meetup](https://www.meetup.com/GDG-Maputo/events/264629648/).
+Para participar no nosso evento de 2020, confirma a tua presença na [plataforma MLH](https://organize.mlh.io/participants/events/4392-hacktoberfest-online-meetup-in-maputo).
 
+## Actualização 2020
+
+Diferente dos anos anteriores, este ano **só são válidos** os PRs:
+- enviados para um repositório marcado com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
+- que foram aprovados `OU` merged `OU` que tenham a label `hacktoberfest-accepted`.
+
+Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.com/hacktoberfest-update
 
 ## Participantes
-- [Nome](github.com/username)
-- [Wak´Oleva Maia](github.com/wakmaia)
+- [Nome Completo](https://github.com/username)
+- [Rosário P. Fernandes](https://github.com/rosariopfernandes)
+- [Marlon C. S. Moisés](https://github.com/JustPrix)
+- [Idácio Dad A. Zibia](https://github.com/idacioDad)
+- [Calleb J. Miquissene](https://github.com/callebdev)
+- [Ivo Naftal](https://github.com/naftalivo)
+- [Wak´Oleva Maia](https://github.com/wakmaia)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
 
-
 ## A procura de outros repositórios para contribuir?
-- Vê outros repositórios Open Source moçambicanos em: [mozdevz/repos](https://github.com/mozdevz/repos).
+- Vê outros repositórios Open Source moçambicanos em: [mozdevz/opensource](https://github.com/mozdevz/opensource).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
 
-## Swag++
+## SWAG++
 
-Além da DigitalOcean, existem outras empresas que também têm SWAG✨ para oferecer:
-- [Adobe](https://opensource.adobe.com/squashtoberfest/)
-- [AppWrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
-- [CircleCI](https://hacktoberfest.circleci.com/#/)
-- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
-- [Opsdroid](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/)
-- [Parity](https://www.parity.io/hacktoberfest-2019-parity/)
-- [Python Discord](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/)
-- [Twilio](https://www.twilio.com/blog/ahoy-hacktoberfest-2019)
-- [Uno](https://platform.uno/uno-is-joining-hacktoberfest-2019/)
-- [Valor](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
+Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.com/).
 
 
 ## Licença
-       Copyright 2019 MozDevz
-    
+       Copyright 2020 MozDevz
+
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
        You may obtain a copy of the License at
-    
+
            http://www.apache.org/licenses/LICENSE-2.0
-    
+
        Unless required by applicable law or agreed to in writing, software
        distributed under the License is distributed on an "AS IS" BASIS,
        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
