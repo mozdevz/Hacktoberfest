@@ -23,6 +23,7 @@ Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.
 - [Calleb J. Miquissene](https://github.com/callebdev)
 - [Ivo Naftal](https://github.com/naftalivo)
 - [Wak´Oleva Maia](https://github.com/wakmaia)
+- [Adimael BR](https://github.com/adimael)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
