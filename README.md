@@ -9,12 +9,12 @@ Para participar no nosso evento de 2021, confirma a tua presença em [TODO: Add 
 
 ## Actualização 2020 - 2021
 
-Tal como em 2020, **só são válidos** os PRs:
+Tal como em 2020, neste ano **só são válidos** os PRs:
 - enviados para repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
 - que foram aprovados **OU** merged **OU** que tenham a label `hacktoberfest-accepted`.
 - que **NÃO** têm a label `spam` ou `invalid`.
 
-Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.com/
+Veja todas as regras em https://hacktoberfest.digitalocean.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
