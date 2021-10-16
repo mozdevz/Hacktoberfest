@@ -18,6 +18,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Rosário P. Fernandes](https://github.com/rosariopfernandes)
 
 
 ### Adiciona o teu nome
