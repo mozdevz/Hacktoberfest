@@ -1,11 +1,11 @@
 # Hacktoberfest 2021
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) é uma celebração do software de código aberto que tem a duração de um mês.
-Esta celebração está aberta à todos membros da comunidade global do GitHub. Só tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
+Esta celebração está aberta à todos membros da comunidade global do GitHub. Tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
 públicos.
 O evento decorre durante o mês de Outubro entre os dias 01 e 31.
 
-Para participar no nosso evento de 2021, confirma a tua presença em [TODO: Add Codacademy link here](https://link.is/coming-soon).
+Para participar no nosso evento de 2021, confirma a tua presença em [Codecademy Maputo Frontenders presents Hacktoberfest 2021](https://community.codecademy.com/events/details/codecademy-maputo-frontenders-presents-hacktoberfest-2021/).
 
 ## Actualização 2020 - 2021
 
