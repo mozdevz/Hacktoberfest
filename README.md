@@ -1,33 +1,31 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2021
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) é uma celebração do software de código aberto que tem a duração de um mês.
-Esta celebração está aberta à todos membros da comunidade global do GitHub. Só tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
+Esta celebração está aberta à todos membros da comunidade global do GitHub. Tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
 públicos.
-O evento ocorre no mês de outubro entre os dias 01 a 31.
+O evento decorre durante o mês de Outubro entre os dias 01 e 31.
 
-Para participar no nosso evento de 2020, confirma a tua presença na [plataforma MLH](https://organize.mlh.io/participants/events/4392-hacktoberfest-online-meetup-in-maputo).
+Para participar no nosso evento de 2021, confirma a tua presença em [Codecademy Maputo Frontenders presents Hacktoberfest 2021](https://community.codecademy.com/events/details/codecademy-maputo-frontenders-presents-hacktoberfest-2021/).
 
-## Actualização 2020
+## Actualização 2020 - 2021
 
-Diferente dos anos anteriores, este ano **só são válidos** os PRs:
-- enviados para um repositório marcado com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
-- que foram aprovados `OU` merged `OU` que tenham a label `hacktoberfest-accepted`.
+Tal como em 2020, neste ano **só são válidos** os PRs:
+- enviados para repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
+- que foram aprovados **OU** merged **OU** que tenham a label `hacktoberfest-accepted`.
+- que **NÃO** têm a label `spam` ou `invalid`.
 
-Mais informações sobre estas alterações: https://hacktoberfest.digitalocean.com/hacktoberfest-update
+Veja todas as regras em https://hacktoberfest.digitalocean.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-- [Rosário P. Fernandes](https://github.com/rosariopfernandes)
-- [Marlon C. S. Moisés](https://github.com/JustPrix)
-- [Idácio Dad A. Zibia](https://github.com/idacioDad)
-- [Calleb J. Miquissene](https://github.com/callebdev)
-- [Ivo Naftal](https://github.com/naftalivo)
-- [Wak´Oleva Maia](https://github.com/wakmaia)
+
 
 ### Adiciona o teu nome
-Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
+
+Participaste do nosso evento virtual? Manda um Pull Request adicionando o teu nome na lista acima.
 
 ## A procura de outros repositórios para contribuir?
+
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/opensource](https://github.com/mozdevz/opensource).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.digitalocean.com/#projects).
@@ -38,7 +36,7 @@ Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag
 
 
 ## Licença
-       Copyright 2020 MozDevz
+       Copyright 2021 MozDevz
 
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
