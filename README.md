@@ -20,8 +20,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 - [Nome Completo](https://github.com/username)
 - [Raimundo Molide](https://github.com/raymolide)
 - [Wak´Oleva Maia](https://github.com/wakmaia)
-
-
+- [Calleb J. Miquissene](https://github.com/callebdev)
 
 ### Adiciona o teu nome
 
