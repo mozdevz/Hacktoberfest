@@ -21,6 +21,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 - [Raimundo Molide](https://github.com/raymolide)
 - [Wak´Oleva Maia](https://github.com/wakmaia)
 - [Calleb J. Miquissene](https://github.com/callebdev)
+- [Carlos Alberto Massavanhane Júnior](https://github.com/cmassavanhanejr)
 
 ### Adiciona o teu nome
 
