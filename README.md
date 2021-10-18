@@ -18,7 +18,9 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-- - [Wak´Oleva Maia](https://github.com/wakmaia)
+- [Raimundo Molide](https://github.com/raymolide)
+- [Wak´Oleva Maia](https://github.com/wakmaia)
+
 
 
 ### Adiciona o teu nome
