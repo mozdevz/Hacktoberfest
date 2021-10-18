@@ -22,6 +22,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 - [Wak´Oleva Maia](https://github.com/wakmaia)
 - [Calleb J. Miquissene](https://github.com/callebdev)
 - [Carlos Alberto Massavanhane Júnior](https://github.com/cmassavanhanejr)
+- [Celso De Carvalho](https://github.com/CelsoDeCarvalho)
 
 ### Adiciona o teu nome
 
