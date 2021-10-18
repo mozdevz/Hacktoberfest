@@ -23,6 +23,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 - [Calleb J. Miquissene](https://github.com/callebdev)
 - [Carlos Alberto Massavanhane Júnior](https://github.com/cmassavanhanejr)
 - [Celso De Carvalho](https://github.com/CelsoDeCarvalho)
+- [Olimpio Adolfo](https://github.com/rnrnshn)
 
 ### Adiciona o teu nome
 
