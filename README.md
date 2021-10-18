@@ -17,9 +17,12 @@ Tal como em 2020, neste ano **só são válidos** os PRs:
 Veja todas as regras em https://hacktoberfest.digitalocean.com/
 
 ## Participantes
-- [Nome Completo](https://github.com/username)
 - [Rosário P. Fernandes](https://github.com/rosariopfernandes)
-
+- [Raimundo Molide](https://github.com/raymolide)
+- [Wak´Oleva Maia](https://github.com/wakmaia)
+- [Calleb J. Miquissene](https://github.com/callebdev)
+- [Carlos Alberto Massavanhane Júnior](https://github.com/cmassavanhanejr)
+- [Celso De Carvalho](https://github.com/CelsoDeCarvalho)
 
 ### Adiciona o teu nome
 
