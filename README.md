@@ -16,6 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+
+- [José Manuel S. Freire](https://github.com/Joseph-Freire)
 - [Milton Maleiane Junior](https://github.com/miltonmaleiane/)
 - [Melanie Nhanzilo](https://github.com/Melanie.Nhanzilo)
 - [Yannick Rafael Matimbe](https://github.com/Booman-IT)
