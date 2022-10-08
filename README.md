@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Genny da Marta Pedro Vasco](https://github.com/GnyVasco)
 
 
 ### Adiciona o teu nome
