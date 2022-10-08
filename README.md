@@ -16,6 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Xadreque Alfeu Zandamela](https://github.com/xadreque)
+
 
 
 ### Adiciona o teu nome
