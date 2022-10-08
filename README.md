@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Luiz dos Santos Tique Junior](https://github.com/Tiquinho10)
 - [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
 - [André Morientes Miserio Banze](https://github.com/andremorientes)
 - [Rodrigues Domingos Fundo](https://github.com/RodriguesFundo)
