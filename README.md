@@ -16,6 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Fausto Ernesto Machava](https://github.com/fausto-machava)
+- [Almerino Moises Buce](https://github.com/mozerbuce)
 - [Yuran Eduardo](https://github.com/Yuran-Eduardo)
 - [Ussumane Abdul Cadre Momade](https://github.com/Uss-Momas)
 - [Hidilson Doho](https://github.com/hidilson45)
