@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [Fenias Maria Manhenge](https://github.com/Fenias-Manhenge)
 
 ### Adiciona o teu nome
 
