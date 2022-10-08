@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
 - [Alfeu Xerinda](https://github.com/Hard-007)
 - [Euclésia Cádia Churana](https://github.com/euclesiacadia)
 - [Hermon Yuran S.C da Cruz](https://github.com/HermonYurandaCruz)
@@ -42,7 +43,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Calleb Miquissene](https://github.com/callebdev)
 
 
-### Alfeu Xerinda
+### Adiciona o teu nome
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
