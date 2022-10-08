@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Luzídio Rafael](https://github.com/Luzidio)
 
 - [Stanley Nhampossa](https://github.com/StanleyNhampossa)
 - [Calleb Miquissene](https://github.com/calledev)
