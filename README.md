@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Yuran Eduardo](https://github.com/Yuran-Eduardo)
 - [Ussumane Abdul Cadre Momade](https://github.com/Uss-Momas)
 - [Hidilson Doho](https://github.com/hidilson45)
 - [Enoque Tembe](https://github.com/enoquetembe)
