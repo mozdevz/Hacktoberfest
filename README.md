@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Joaquim Magode](https://github.com/jmagode)
 
 
 ### Adiciona o teu nome
