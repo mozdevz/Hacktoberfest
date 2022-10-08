@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [José Manuel S. Freire](https://github.com/Joseph-Freire)
 
 ### Adiciona o teu nome
 
