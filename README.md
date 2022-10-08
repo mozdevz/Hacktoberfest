@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Fenias Maria Manhenge](https://github.com/Fenias-Manhenge)
 - [Luiz dos Santos Tique Junior](https://github.com/Tiquinho10)
 - [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
 - [André Morientes Miserio Banze](https://github.com/andremorientes)
@@ -24,7 +25,6 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Luzídio Rafael](https://github.com/Luzidio)
 - [Stanley Nhampossa](https://github.com/StanleyNhampossa)
 - [Calleb Miquissene](https://github.com/callebdev)
-
 
 ### Adiciona o teu nome
 
