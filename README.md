@@ -18,6 +18,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Nome Completo](https://github.com/username)
 - [Eros Derique Utui](https://github.com/ErosUtui)
 - [Eusebio Simango](https://github.com/EusebioSimango)
+- [Jone BUlande](https://github.com/JoneBulande)
 - [Francisco Manuel Domingos junior](https://github.com/franciscojunior12/)
 - [Angel Banze](https://github.com/aebanze)
 - [Fenias Maria Manhenge](https://github.com/Fenias-Manhenge)
