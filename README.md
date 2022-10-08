@@ -15,7 +15,7 @@ Desde 2020, **só são válidos** os PRs:
 Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
-- [Nome Completo](https://github.com/username)
+- [Hidilson Doho](https://github.com/hidilson45)
 
 
 ### Adiciona o teu nome
