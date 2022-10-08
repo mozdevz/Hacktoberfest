@@ -15,7 +15,7 @@ Desde 2020, **só são válidos** os PRs:
 Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
-- [Nome Completo](https://github.com/username)
+- [Almeida João de Almeida](https://github.com/AlmeidaJoao)
 
 - [José Manuel S. Freire](https://github.com/Joseph-Freire)
 - [Milton Maleiane Junior](https://github.com/miltonmaleiane/)
