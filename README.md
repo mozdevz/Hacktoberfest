@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Hermon Yuran S.C da Cruz](https://github.com/HermonYurandaCruz)
 - [Genny da Marta Pedro Vasco](https://github.com/GnyVasco)
 - [Fausto Ernesto Machava](https://github.com/fausto-machava)
 - [Almerino Moises Buce](https://github.com/mozerbuce)
