@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [Stanley Nhampossa](https://github.com/StanleyNhampossa)
 
 ### Adiciona o teu nome
 
