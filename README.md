@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Ussumane Abdul Cadre Momade] (https://github.com/Uss-Momas)
 
 
 ### Adiciona o teu nome
