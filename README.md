@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Alfeu Xerinda](https://github.com/Hard-007)
 - [Euclésia Cádia Churana](https://github.com/euclesiacadia)
 - [Hermon Yuran S.C da Cruz](https://github.com/HermonYurandaCruz)
 - [Genny da Marta Pedro Vasco](https://github.com/GnyVasco)
@@ -41,7 +42,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Calleb Miquissene](https://github.com/callebdev)
 
 
-### Adiciona o teu nome
+### Alfeu Xerinda
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
