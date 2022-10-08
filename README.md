@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Wak´Oleva Maia](https://github.com/wakmaia)
 - [Luís Milice](https://github.com/LuisMilice)
 - [Joaquim Magode](https://github.com/jmagode)
 - [Alex Specter](https://github.com/4lph47)
