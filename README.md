@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Yuran Eduardo](https://github.com/Yuran-Eduardo)
 
 
 ### Adiciona o teu nome
