@@ -17,6 +17,17 @@ Veja todas as regras em https://hacktoberfest.com/
 ## Participantes
 - [Nome Completo](https://github.com/username)
 - [Jone BUlande(https://github.com/JoneBulande)
+- [Francisco Manuel Domingos junior](https://github.com/franciscojunior12/)
+- [Angel Banze](https://github.com/aebanze)
+- [Fenias Maria Manhenge](https://github.com/Fenias-Manhenge)
+- [Luiz dos Santos Tique Junior](https://github.com/Tiquinho10)
+- [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
+- [André Morientes Miserio Banze](https://github.com/andremorientes)
+- [Rodrigues Domingos Fundo](https://github.com/RodriguesFundo)
+- [Otilia Kira](https://github.com/otiliakira)
+- [Luzídio Rafael](https://github.com/Luzidio)
+- [Stanley Nhampossa](https://github.com/StanleyNhampossa)
+- [Calleb Miquissene](https://github.com/callebdev)
 
 
 ### Adiciona o teu nome
