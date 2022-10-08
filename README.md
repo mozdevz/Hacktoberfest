@@ -15,8 +15,9 @@ Desde 2020, **só são válidos** os PRs:
 Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
-- [Hidilson Doho](https://github.com/hidilson45)
 - [Nome Completo](https://github.com/username)
+- [Ussumane Abdul Cadre Momade](https://github.com/Uss-Momas)
+- [Hidilson Doho](https://github.com/hidilson45)
 - [Enoque Tembe](https://github.com/enoquetembe)
 - [Eros Derique Utui](https://github.com/ErosUtui)
 - [Eusebio Simango](https://github.com/EusebioSimango)
