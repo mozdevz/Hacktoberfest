@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Luiz dos Santos Tique Junior](https://github.com/Tiquinho10)
 
 
 ### Adiciona o teu nome
