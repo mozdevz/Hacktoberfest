@@ -16,10 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
 - [André Morientes Miserio Banze](https://github.com/andremorientes)
-
-
-
 - [Rodrigues Domingos Fundo](https://github.com/RodriguesFundo)
 - [Otilia Kira](https://github.com/otiliakira)
 - [Luzídio Rafael](https://github.com/Luzidio)
