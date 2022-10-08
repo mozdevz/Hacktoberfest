@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Joaquim Magode](https://github.com/jmagode)
 - [Alex Specter](https://github.com/4lph47)
 - [Anatália Neves Mula](https://github.com/mulaanatalia)
 - [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
