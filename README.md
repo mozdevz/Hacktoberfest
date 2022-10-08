@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
 
 
 ### Adiciona o teu nome
