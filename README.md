@@ -16,6 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- Rodrigues Domingos Fundo(https://github.com/RodriguesFundo)
+- Otilia Kira (https://github.com/otiliakira)
 
 
 ### Adiciona o teu nome
