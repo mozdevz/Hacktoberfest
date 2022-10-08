@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Hermon Yuran S.C da Cruz](https://github.com/HermonYurandaCruz)
 
 
 ### Adiciona o teu nome
