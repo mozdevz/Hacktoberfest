@@ -16,7 +16,8 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [Eros Derique Utui](https://github.com/ErosUtui)
+- [Eusebio Simango](https://github.com/EusebioSimango)
 
 ### Adiciona o teu nome
 
