@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [André Morientes Miserio Banze](https://github.com/andremorientes)
 
 
 ### Adiciona o teu nome
