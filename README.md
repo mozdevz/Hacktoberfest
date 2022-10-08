@@ -16,6 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
+- [Xadreque Alfeu Zandamela](https://github.com/xadreque)
 - [Wak´Oleva Maia](https://github.com/wakmaia)
 - [Luís Milice](https://github.com/LuisMilice)
 - [Joaquim Magode](https://github.com/jmagode)
