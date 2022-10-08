@@ -15,10 +15,10 @@ Desde 2020, **só são válidos** os PRs:
 Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
-- [Nome Completo](https://github.com/username)
+- [Alfeu Xerinda](https://github.com/Hard-007)
 
 
-### Adiciona o teu nome
+### Alfeu Xerinda
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
