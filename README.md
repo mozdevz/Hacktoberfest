@@ -17,6 +17,7 @@ Veja todas as regras em https://hacktoberfest.com/
 ## Participantes
 - [Almeida João de Almeida](https://github.com/AlmeidaJoao)
 
+- [Cecilia](https://github.com/ctivir)
 - [José Manuel S. Freire](https://github.com/Joseph-Freire)
 - [Milton Maleiane Junior](https://github.com/miltonmaleiane/)
 - [Melanie Nhanzilo](https://github.com/Melanie.Nhanzilo)
