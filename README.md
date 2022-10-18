@@ -53,6 +53,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Luzídio Rafael](https://github.com/Luzidio)
 - [Stanley Nhampossa](https://github.com/StanleyNhampossa)
 - [Calleb Miquissene](https://github.com/callebdev)
+- [Paulo Regina](https://github.com/pauloregina)
 
 
 ### Adiciona o teu nome
