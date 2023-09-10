@@ -1,13 +1,13 @@
 
 
-<h1> <img style="float: left; width: 36px" src="assets/icon_10@2x.png"> Hacktoberfest 2023 - Celebrando 10 anos </h1>
+<h1> <img style="float: left; width: 36px; padding-right: 8px" src="assets/icon_10@2x.png"> Hacktoberfest 2023 - Celebrando 10 anos </h1>
 
 [Hacktoberfest](https://hacktoberfest.com) é uma celebração do software de código aberto que tem a duração de um mês.
 Esta celebração está aberta à todos membros da comunidade global do GitHub. Tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
 públicos.
 O evento decorre durante o mês de Outubro entre os dias 01 e 31.
 
-<h2> <img style="float: left; width: 24px" src="assets/icon_04@1x.png"> Actualizações recentes </h2>
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_04@1x.png"> Actualizações recentes </h2>
 
 #### Em 2023
 
@@ -22,7 +22,7 @@ Desde 2020, **só são válidos** os PRs:
 
 Veja todas as regras em https://hacktoberfest.com/
 
-<h2> <img style="float: left; width: 24px" src="assets/icon_08@1x.png"> Participantes </h2>
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
 - [Nome Completo](https://github.com/username)
 
@@ -31,13 +31,13 @@ Veja todas as regras em https://hacktoberfest.com/
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
-<h2> <img style="float: left; width: 24px" src="assets/icon_05@1x.png"> A procura de outros repositórios para contribuir? </h2>
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_05@1x.png"> A procura de outros repositórios para contribuir? </h2>
 
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/opensource](https://github.com/mozdevz/opensource).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.com/#projects).
 
-<h2> <img style="float: left; width: 24px" src="assets/icon_07@1x.png"> SWAG++ </h2>
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_07@1x.png"> SWAG++ </h2>
 
 Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/list/).
 
