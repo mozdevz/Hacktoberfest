@@ -1,11 +1,19 @@
-# Hacktoberfest 2022
+
+
+<h1> <img style="float: left; width: 36px; padding-right: 8px" src="assets/icon_10@2x.png"> Hacktoberfest 2023 - Celebrando 10 anos </h1>
 
 [Hacktoberfest](https://hacktoberfest.com) é uma celebração do software de código aberto que tem a duração de um mês.
 Esta celebração está aberta à todos membros da comunidade global do GitHub. Tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
 públicos.
 O evento decorre durante o mês de Outubro entre os dias 01 e 31.
 
-## Actualização 2020
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_04@1x.png"> Actualizações recentes </h2>
+
+#### Em 2023
+
+A DigitalOcean já não oferece T-shirts para os participantes do evento. O prêmio agora é digital, tal como explica o [website oficial](https://hacktoberfest.com/about/#digital-rewards).
+
+#### Em 2020
 
 Desde 2020, **só são válidos** os PRs:
 - enviados para repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest).
@@ -14,65 +22,30 @@ Desde 2020, **só são válidos** os PRs:
 
 Veja todas as regras em https://hacktoberfest.com/
 
-## Participantes
-- [Almeida João de Almeida](https://github.com/AlmeidaJoao)
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Cecilia](https://github.com/ctivir)
-- [José Manuel S. Freire](https://github.com/Joseph-Freire)
-- [Milton Maleiane Junior](https://github.com/miltonmaleiane/)
-- [Melanie Nhanzilo](https://github.com/Melanie.Nhanzilo)
-- [Yannick Rafael Matimbe](https://github.com/Booman-IT)
-- [Xadreque Alfeu Zandamela](https://github.com/xadreque)
-- [Wak´Oleva Maia](https://github.com/wakmaia)
-- [Luís Milice](https://github.com/LuisMilice)
-- [Joaquim Magode](https://github.com/jmagode)
-- [Alex Specter](https://github.com/4lph47)
-- [Anatália Neves Mula](https://github.com/mulaanatalia)
-- [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
-- [Alfeu Xerinda](https://github.com/Hard-007)
-- [Euclésia Cádia Churana](https://github.com/euclesiacadia)
-- [Hermon Yuran S.C da Cruz](https://github.com/HermonYurandaCruz)
-- [Genny da Marta Pedro Vasco](https://github.com/GnyVasco)
-- [Fausto Ernesto Machava](https://github.com/fausto-machava)
-- [Almerino Moises Buce](https://github.com/mozerbuce)
-- [Yuran Eduardo](https://github.com/Yuran-Eduardo)
-- [Ussumane Abdul Cadre Momade](https://github.com/Uss-Momas)
-- [Hidilson Doho](https://github.com/hidilson45)
-- [Enoque Tembe](https://github.com/enoquetembe)
-- [Eros Derique Utui](https://github.com/ErosUtui)
-- [Eusebio Simango](https://github.com/EusebioSimango)
-- [Jone BUlande](https://github.com/JoneBulande)
-- [Francisco Manuel Domingos junior](https://github.com/franciscojunior12/)
-- [Angel Banze](https://github.com/aebanze)
-- [Fenias Maria Manhenge](https://github.com/Fenias-Manhenge)
-- [Luiz dos Santos Tique Junior](https://github.com/Tiquinho10)
-- [Amancio Fernando Chiluvane](https://github.com/amanciochiluvane)
-- [André Morientes Miserio Banze](https://github.com/andremorientes)
-- [Rodrigues Domingos Fundo](https://github.com/RodriguesFundo)
-- [Otilia Kira](https://github.com/otiliakira)
-- [Luzídio Rafael](https://github.com/Luzidio)
-- [Stanley Nhampossa](https://github.com/StanleyNhampossa)
-- [Calleb Miquissene](https://github.com/callebdev)
-- [Paulo Regina](https://github.com/pauloregina)
+- [Nome Completo](https://github.com/username)
+- 
 
 
 ### Adiciona o teu nome
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
-## A procura de outros repositórios para contribuir?
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_05@1x.png"> A procura de outros repositórios para contribuir? </h2>
 
 - Vê outros repositórios Open Source moçambicanos em: [mozdevz/opensource](https://github.com/mozdevz/opensource).
 - Repositórios marcados com o [tópico Hacktoberfest](https://github.com/topics/hacktoberfest) no GitHub.
 - Repositórios no [site Hacktoberfest](https://hacktoberfest.com/#projects).
 
-## SWAG++
+<h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_07@1x.png"> SWAG++ </h2>
 
-Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag List](https://hacktoberfest-swag-list.netlify.app/list/).
+Podes encontrar mais empresas que têm SWAG para oferecer em [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/list/).
 
 
-## Licença
-       Copyright 2022 MozDevz
+<h2> <img style="float: left; width: 24px" src="assets/icon_03@1x.png"> Licença </h2>
+
+       Copyright 2023 MozDevz
 
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
