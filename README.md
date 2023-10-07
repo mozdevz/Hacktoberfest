@@ -24,13 +24,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Nome Completo](https://github.com/username)
-- 
-
-
-### Adiciona o teu nome
-
-Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
+- [Farioso Fernando](https://github.com/fariosofernando)
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_05@1x.png"> A procura de outros repositórios para contribuir? </h2>
 
