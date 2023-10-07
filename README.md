@@ -25,7 +25,7 @@ Veja todas as regras em https://hacktoberfest.com/
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
 - [Nome Completo](https://github.com/username)
-- 
+- [Fernando Gomes](https://github.com/fernandogomesfg/)
 
 
 ### Adiciona o teu nome
