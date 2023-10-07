@@ -26,7 +26,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 - [Nome Completo](https://github.com/username)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
-
+- [Jeffer Marcelino](https://github.com/JefferMarcelino)
 
 ### Adiciona o teu nome
 
