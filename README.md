@@ -24,11 +24,11 @@ Veja todas as regras em https://hacktoberfest.com/
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Nome Completo](https://github.com/username)
+- [Milagre Antonio  Chavanguane](https://github.com/Milagre10)
 - 
 
 
-### Adiciona o teu nome
+### Adicioar o nome
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
