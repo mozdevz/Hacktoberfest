@@ -46,8 +46,9 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Eleuterio Fulaho Notico](https://github.com/Eleuterio258)
 - [Pinto Armando Macuacua](https://github.com/PintoMacuacua)
 - [Ivo Naftal](https://github.com/naftalivo/)
+- [Milagre Antonio Chavanguane](https://github.com/Milagre10)
 
-### Adiciona o teu nome
+### Adicioar o nome
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
