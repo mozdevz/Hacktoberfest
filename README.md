@@ -36,6 +36,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Pedro Neves](https://github.com/Pedro-Ivo-Neves)
 - [Elio Muculo](https://github.com/Elio-Muculo)
 - [Henriques Adriano Monteiro](https://github.com/HenriquesMonteiro)
+- [Wildson Muchanga](https://github.com/Wildsonnn)
 
 ### Adiciona o teu nome
 
