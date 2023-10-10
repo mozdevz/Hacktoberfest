@@ -33,6 +33,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Abel Eduardo Mondlane](https://github.com/hc12r)
 - [Telvio Sheldon](https://github.com/TelvioSheldon)
 - [Shelton Francisco](https://github.com/SheltonFr)
+- [Pedro Neves](https://github.com/Pedro-Ivo-Neves)
 
 ### Adiciona o teu nome
 
