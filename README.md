@@ -31,6 +31,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Frenk Langa](https://github.com/FrenkLanga)
 - [Edgar de Jesus](https://github.com/EdgarJFA)
 - [Abel Eduardo Mondlane](https://github.com/hc12r)
+- [Telvio Sheldon](https://github.com/TelvioSheldon)
 
 ### Adiciona o teu nome
 
