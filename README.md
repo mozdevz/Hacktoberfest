@@ -41,6 +41,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Cláudio Tomás](https://github.com/claudi-tm)
 - [Herquilóide Hele](https://github.com/herquiloidehele)
 - [Derson André Mutemba](https://github.com/dersonmutemba)
+- [Farioso Fernando](https://github.com/fariosofernando)
 
 ### Adiciona o teu nome
 
