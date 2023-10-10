@@ -25,8 +25,12 @@ Veja todas as regras em https://hacktoberfest.com/
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
 - [Nome Completo](https://github.com/username)
+- [Eusébio Simango](https://github.com/EusebioSimango)
+- [Calleb Miquissene](https://github.com/callebdev)
+- [Jeffer Marcelino](https://github.com/JefferMarcelino)
+- [Frenk Langa](https://github.com/FrenkLanga)
+- [Edgar de Jesus](https://github.com/EdgarJFA)
 - [Abel Eduardo Mondlane](https://github.com/hc12r)
-
 
 ### Adiciona o teu nome
 
