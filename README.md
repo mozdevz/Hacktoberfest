@@ -25,7 +25,8 @@ Veja todas as regras em https://hacktoberfest.com/
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
 - [Nome Completo](https://github.com/username)
-- [Jeffer Marcelino](https://github.com/JefferMarcelino)
+- [Eusébio Simango](https://github.com/EusebioSimango)
+- [Calleb Miquissene](https://github.com/callebdev)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
 
 ### Adiciona o teu nome
