@@ -43,6 +43,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Derson André Mutemba](https://github.com/dersonmutemba)
 - [Farioso Fernando](https://github.com/fariosofernando)
 - [Mister Paps](https://github.com/themisterpaps)
+- [Eleuterio Fulaho Notico](https://github.com/Eleuterio258)
 
 ### Adiciona o teu nome
 
