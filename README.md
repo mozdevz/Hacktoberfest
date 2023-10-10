@@ -39,6 +39,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Wildson Muchanga](https://github.com/Wildsonnn)
 - [Fernando Gomes](https://github.com/fernandogomesfg/)
 - [Cláudio Tomás](https://github.com/claudi-tm)
+- [Herquilóide Hele](https://github.com/herquiloidehele)
 
 ### Adiciona o teu nome
 
