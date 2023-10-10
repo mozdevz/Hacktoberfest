@@ -44,6 +44,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Farioso Fernando](https://github.com/fariosofernando)
 - [Mister Paps](https://github.com/themisterpaps)
 - [Eleuterio Fulaho Notico](https://github.com/Eleuterio258)
+- [Pinto Armando Macuacua](https://github.com/PintoMacuacua)
 
 ### Adiciona o teu nome
 
