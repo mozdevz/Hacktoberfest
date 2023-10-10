@@ -38,6 +38,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Henriques Adriano Monteiro](https://github.com/HenriquesMonteiro)
 - [Wildson Muchanga](https://github.com/Wildsonnn)
 - [Fernando Gomes](https://github.com/fernandogomesfg/)
+- [Cláudio Tomás](https://github.com/claudi-tm)
 
 ### Adiciona o teu nome
 
