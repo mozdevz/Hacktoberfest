@@ -24,9 +24,29 @@ Veja todas as regras em https://hacktoberfest.com/
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Milagre Antonio  Chavanguane](https://github.com/Milagre10)
-- 
-
+- [Nome Completo](https://github.com/username)
+- [Eusébio Simango](https://github.com/EusebioSimango)
+- [Calleb Miquissene](https://github.com/callebdev)
+- [Jeffer Marcelino](https://github.com/JefferMarcelino)
+- [Frenk Langa](https://github.com/FrenkLanga)
+- [Edgar de Jesus](https://github.com/EdgarJFA)
+- [Abel Eduardo Mondlane](https://github.com/hc12r)
+- [Telvio Sheldon](https://github.com/TelvioSheldon)
+- [Shelton Francisco](https://github.com/SheltonFr)
+- [Pedro Neves](https://github.com/Pedro-Ivo-Neves)
+- [Elio Muculo](https://github.com/Elio-Muculo)
+- [Henriques Adriano Monteiro](https://github.com/HenriquesMonteiro)
+- [Wildson Muchanga](https://github.com/Wildsonnn)
+- [Fernando Gomes](https://github.com/fernandogomesfg/)
+- [Cláudio Tomás](https://github.com/claudi-tm)
+- [Herquilóide Hele](https://github.com/herquiloidehele)
+- [Derson André Mutemba](https://github.com/dersonmutemba)
+- [Farioso Fernando](https://github.com/fariosofernando)
+- [Mister Paps](https://github.com/themisterpaps)
+- [Eleuterio Fulaho Notico](https://github.com/Eleuterio258)
+- [Pinto Armando Macuacua](https://github.com/PintoMacuacua)
+- [Ivo Naftal](https://github.com/naftalivo/)
+- [Milagre Antonio Chavanguane](https://github.com/Milagre10)
 
 ### Adicioar o nome
 
