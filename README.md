@@ -40,6 +40,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Fernando Gomes](https://github.com/fernandogomesfg/)
 - [Cláudio Tomás](https://github.com/claudi-tm)
 - [Herquilóide Hele](https://github.com/herquiloidehele)
+- [Derson André Mutemba](https://github.com/dersonmutemba)
 
 ### Adiciona o teu nome
 
