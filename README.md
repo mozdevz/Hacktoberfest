@@ -30,6 +30,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
 - [Frenk Langa](https://github.com/FrenkLanga)
 - [Edgar de Jesus](https://github.com/EdgarJFA)
+- [Abel Eduardo Mondlane](https://github.com/hc12r)
 
 ### Adiciona o teu nome
 
