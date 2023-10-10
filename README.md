@@ -27,7 +27,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Nome Completo](https://github.com/username)
 - [Eusébio Simango](https://github.com/EusebioSimango)
 - [Calleb Miquissene](https://github.com/callebdev)
-
+- [Jeffer Marcelino](https://github.com/JefferMarcelino)
 
 ### Adiciona o teu nome
 
