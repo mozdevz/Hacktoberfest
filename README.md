@@ -29,6 +29,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Calleb Miquissene](https://github.com/callebdev)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
 - [Frenk Langa](https://github.com/FrenkLanga)
+- [Edgar de Jesus](https://github.com/EdgarJFA)
 
 ### Adiciona o teu nome
 
