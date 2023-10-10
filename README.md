@@ -34,6 +34,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Telvio Sheldon](https://github.com/TelvioSheldon)
 - [Shelton Francisco](https://github.com/SheltonFr)
 - [Pedro Neves](https://github.com/Pedro-Ivo-Neves)
+- [Elio Muculo](https://github.com/Elio-Muculo) 
 
 ### Adiciona o teu nome
 
