@@ -42,6 +42,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Herquilóide Hele](https://github.com/herquiloidehele)
 - [Derson André Mutemba](https://github.com/dersonmutemba)
 - [Farioso Fernando](https://github.com/fariosofernando)
+- [Mister Paps](https://github.com/themisterpaps)
 
 ### Adiciona o teu nome
 
