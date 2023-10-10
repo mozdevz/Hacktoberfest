@@ -28,6 +28,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Eusébio Simango](https://github.com/EusebioSimango)
 - [Calleb Miquissene](https://github.com/callebdev)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
+- [Frenk Langa](https://github.com/FrenkLanga)
 
 ### Adiciona o teu nome
 
