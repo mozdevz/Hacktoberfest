@@ -47,6 +47,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Pinto Armando Macuacua](https://github.com/PintoMacuacua)
 - [Ivo Naftal](https://github.com/naftalivo/)
 - [Milagre Antonio Chavanguane](https://github.com/Milagre10)
+- [Ancha Pedro](https://github.com/anchaapedro)
 
 ### Adicioar o nome
 
