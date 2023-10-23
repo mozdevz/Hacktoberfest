@@ -24,7 +24,6 @@ Veja todas as regras em https://hacktoberfest.com/
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Nome Completo](https://github.com/username)
 - [Eusébio Simango](https://github.com/EusebioSimango)
 - [Calleb Miquissene](https://github.com/callebdev)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
@@ -47,6 +46,7 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Pinto Armando Macuacua](https://github.com/PintoMacuacua)
 - [Ivo Naftal](https://github.com/naftalivo/)
 - [Milagre Antonio Chavanguane](https://github.com/Milagre10)
+- [Michoro Michel Zavale](https://github.com/Loren17web)
 - [Ancha Pedro](https://github.com/anchaapedro)
 
 ### Adicione o seu nome
