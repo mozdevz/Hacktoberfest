@@ -2,10 +2,10 @@
 
 <h1> <img style="float: left; width: 36px; padding-right: 8px" src="assets/icon_10@2x.png"> Hacktoberfest 2023 - Celebrando 10 anos </h1>
 
-[Hacktoberfest](https://hacktoberfest.com) é uma celebração do software de código aberto que tem a duração de um mês.
-Esta celebração está aberta à todos membros da comunidade global do GitHub. Tens de abrir pelo menos 4 Pull Requests de qualidade em repositórios
+[Hacktoberfest](https://hacktoberfest.com) é uma celebração do software de código aberto que tem a duração de um mês, concretamente no mês de Outubro entre os dias 01 e 31.
+Esta celebração está aberta à todos membros da comunidade global do GitHub. 
+A sua contribuição é válida quando tiver pelo menos 4 Pull Requests de qualidade em repositórios
 públicos.
-O evento decorre durante o mês de Outubro entre os dias 01 e 31.
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_04@1x.png"> Actualizações recentes </h2>
 
@@ -24,7 +24,6 @@ Veja todas as regras em https://hacktoberfest.com/
 
 <h2> <img style="float: left; width: 24px; padding-right: 4px" src="assets/icon_08@1x.png"> Participantes </h2>
 
-- [Nome Completo](https://github.com/username)
 - [Eusébio Simango](https://github.com/EusebioSimango)
 - [Calleb Miquissene](https://github.com/callebdev)
 - [Jeffer Marcelino](https://github.com/JefferMarcelino)
@@ -48,8 +47,9 @@ Veja todas as regras em https://hacktoberfest.com/
 - [Ivo Naftal](https://github.com/naftalivo/)
 - [Milagre Antonio Chavanguane](https://github.com/Milagre10)
 - [Michoro Michel Zavale](https://github.com/Loren17web)
+- [Ancha Pedro](https://github.com/anchaapedro)
 
-### Adicioar o nome
+### Adicione o seu nome
 
 Queres participar do Hacktoberfest este ano? Manda um Pull Request adicionando o teu nome na lista acima.
 
